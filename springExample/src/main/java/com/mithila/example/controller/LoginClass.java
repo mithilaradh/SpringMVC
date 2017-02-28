@@ -12,6 +12,6 @@ public class LoginClass {
 		if (username.equals("mithila") && password.equals("123"))
 			return "login Successful";
 
-		return "login denid";
+		return "login denied";
 	}
 }
